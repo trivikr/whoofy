@@ -1,0 +1,26 @@
+{
+  "name": "whoofy",
+  "version": "1.0.0",
+  "description": "Npm Card for Whoofy (Instagram @whoofythecutegolden)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/whoofy.git"
+  },
+  "keywords": [
+    "Whoofy",
+    "Golden",
+    "retriever",
+    "dog",
+    "cute"
+  ],
+  "author": "Kamat, Trivikram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trivikr/whoofy/issues"
+  },
+  "homepage": "https://github.com/trivikr/whoofy#readme"
+}
